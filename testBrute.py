@@ -1,6 +1,5 @@
 # ni saya guna python 2.7
-# WAN MOHAMMAD FAISAL BIN SAMMIO (B031720043)
-# Soliseheaswar Sridaran (B031720019)
+
 
 print "Hai, saya Faisal dan ini utk lab3"
 mesejOrgtu = raw_input("masukkan text yg telah dicipherkan baris demi baris: ")
