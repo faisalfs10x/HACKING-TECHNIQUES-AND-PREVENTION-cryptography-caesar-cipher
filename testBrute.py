@@ -1,3 +1,5 @@
+# Reference
+# https://inventwithpython.com/hacking/chapter7.html
 # ni saya guna python 2.7
 
 
